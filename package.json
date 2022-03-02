@@ -1,0 +1,19 @@
+{
+  "name": "sw2_npm",
+  "version": "1.0.0",
+  "description": "Changes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuqifit1/SW2_NPM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuqifit1/SW2_NPM/issues"
+  },
+  "homepage": "https://github.com/kuqifit1/SW2_NPM#readme"
+}
