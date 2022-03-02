@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kuqifit1/SW2_NPM/issues"
   },
-  "homepage": "https://github.com/kuqifit1/SW2_NPM#readme"
+  "homepage": "https://github.com/kuqifit1/SW2_NPM#readme",
+  "dependencies": {
+    "chart.js": "^2.9.3"
+  }
 }
